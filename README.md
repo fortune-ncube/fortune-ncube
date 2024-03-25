@@ -46,3 +46,5 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 
 ### Data Science Projects
 + [Automobile EDA](https://github.com/fortune-ncube/automobile_eda)
+
++ [Automobile EDA](https://github.com/fortune-ncube/automobile_eda)

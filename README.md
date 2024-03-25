@@ -46,5 +46,6 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 
 ### Data Science Projects
 + [Automobile EDA](https://github.com/fortune-ncube/automobile_eda)
-
-+ [Automobile EDA](https://github.com/fortune-ncube/automobile_eda)
+A 1985 dataset of automobiles is driven through an EDA process to find interesting trends and useful information for decision-making by various organisations.
++ [Forbes Richest Athletes EDA (1980 - 2020)](https://github.com/fortune-ncube/richest_atheletes_eda)
+The accumulation of income derived by sports personalities from their respective sporting codes is analysed over a 20 year period.

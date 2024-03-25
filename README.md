@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Welcome to my Github Profile! I am a structural engineer and a data science enthusiast with a passion for extracting extraordinary insights from any type of data.
+Welcome to my Github Profile! I am a structural engineer and a data science enthusiast passionate about extracting extraordinary insights from data in any industry.
 
 * 🌍  I'm based in Johannesburg
 * 🖥️  See my portfolio at [My Portfolio](http://www.hyperiondev.com/portfolio/129678/)
@@ -43,3 +43,6 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+### Data Science Projects
++ [Automobile EDA]()

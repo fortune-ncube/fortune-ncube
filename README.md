@@ -61,3 +61,5 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 
      Four different types of crimes occurring across all states of the USA are analysed with the populations of these states and other features.
      The data is driven through a Principal Component Analysis to determine crime relationships among states 
+
+### Python Programming Projects

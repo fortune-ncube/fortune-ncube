@@ -55,4 +55,9 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 
 + [School Database Management System](https://github.com/fortune-ncube/school_rdms)
 
-     A school's database management system is designed to allow access to all students, lecturers, and other information pertaining to the running of  a school.
+     A school's database management system is designed to allow access to all students, lecturers, and other information on the running of  a school.
+
++ [PCA on US Arrests](https://github.com/fortune-ncube/US_Arrests_PCA)
+
+     Four different types of crimes occurring across all states of the USA are analysed with the populations of these states and other features.
+     The data is driven through a Principal Component Analysis to determine crime relationships among states 

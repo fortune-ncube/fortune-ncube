@@ -52,3 +52,7 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 + [Forbes Richest Athletes EDA (1990 - 2020)](https://github.com/fortune-ncube/richest_atheletes_eda)
 
      The accumulation of income derived by sports personalities from their respective sporting codes is analysed over 30 years.
+
++ [School Database Management System](https://github.com/fortune-ncube/school_rdms)
+
+     A school's database management system is designed to allow access to all students, lecturers, and other information pertaining to the running of  a school.

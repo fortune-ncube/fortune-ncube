@@ -1,3 +1,5 @@
+![data-science-jpeg](https://github.com/fortune-ncube/fortune-ncube/assets/100047369/59b80b20-4d0a-40eb-b795-45393f4267bb)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fortune Ncube
 =====================================================================================================================================
 

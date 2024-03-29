@@ -72,4 +72,4 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 
 + [Small Company Task Manager Tool](https://github.com/fortune-ncube/task_manager_part2)
 
-     A small company has had a task manager tool designed for their team leader and team members for use in tracking and managing tasks assigned within the team.
+     A small company has had a task manager tool designed for their team leader and team members to use in tracking and managing tasks assigned within the team.

@@ -69,3 +69,7 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 + [Store Inventory System](https://github.com/fortune-ncube/store_invetory_OOP)
 
      Object Orientated Programming was used to design a store's inventory system for keeping track of the shoes the store sold.
+
++ [Small Company Task Manager Tool](https://github.com/fortune-ncube/task_manager_part2)
+
+     A small company has had a task manager tool designed for their team leader and team members for use in tracking and managing tasks assigned within the team.

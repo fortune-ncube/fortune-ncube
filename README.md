@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/fortune-ncube?logo=github&style=for
 + [PCA on US Arrests](https://github.com/fortune-ncube/US_Arrests_PCA)
 
      Four different types of crimes occurring across all states of the USA are analysed with the populations of these states and other features.
-     The data is driven through a Principal Component Analysis to determine crime relationships among states 
+     The data is driven through a Principal Component Analysis to determine crime relationships among 50 states. Clustering techniques are also employed in the analysis to see group behaviour of states in relation to crimes.
 
 ### Python Programming Projects
 
